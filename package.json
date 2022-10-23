@@ -1,7 +1,7 @@
 {
   "name": "rat-forked",
   "description": "Forked from react-accessible-treeview",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "dist/react-accessible-treeview.cjs.js",
   "module": "dist/react-accessible-treeview.esm.js",
   "types": "dist/index.d.ts",
