@@ -1,7 +1,7 @@
 {
-  "name": "rat",
-  "description": "A react component that implements the treeview pattern as described by the WAI-ARIA Authoring Practices.",
-  "version": "2.3.0",
+  "name": "rat-forked",
+  "description": "Forked from react-accessible-treeview",
+  "version": "0.0.0",
   "main": "dist/react-accessible-treeview.cjs.js",
   "module": "dist/react-accessible-treeview.esm.js",
   "types": "dist/index.d.ts",
